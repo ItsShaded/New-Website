@@ -17,9 +17,10 @@ body {
   background-size: cover;
 
 }
+
 /* Scrollbar */
 body::-webkit-scrollbar {
-  display: none;            /* scrollbar appears only when needed */
+ display: none;
 }
 
 /* Animation Fade */
