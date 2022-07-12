@@ -10,7 +10,7 @@
 ## About
 
 This was made in 3 days to replace my previous personal
-website. I have listen some of my info and about my projects.
+website. I have listed some of my info and about my projects.
 
 ## License
 
