@@ -10,6 +10,7 @@ body {
   height: 100%;
   overflow: hidden;
   font-family: "Open Sans", sans-serif;
+  color: #000000;
   background-image: url("https://pin.it/2uavJR8"); 
   background-attachment: fixed;
   background-size: cover;
