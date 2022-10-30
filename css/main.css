@@ -46,6 +46,16 @@ body {
     animation-fill-mode: forwards;
 }
 
+/* Animation Fade */
+@keyframes fadeInAnimation {
+  0% {
+      opacity: 0;
+  }
+  100% {
+      opacity: 1;
+  }
+ }
+
 /* Text Elements */
 h1,
 h2,
