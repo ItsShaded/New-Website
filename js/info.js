@@ -5,6 +5,6 @@ document.addEventListener("DOMContentLoaded", () => {
     let age = document.getElementById("age");
   
     if (age != undefined) {
-      age.innerHTML = year - 2006;
+      age.innerHTML = year - 2007;
     }
   });
